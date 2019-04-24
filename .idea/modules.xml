@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micronaut-graal-demo.iml" filepath="$PROJECT_DIR$/micronaut-graal-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/micronaut-graal-demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/micronaut-graal-demo_main.iml" group="micronaut-graal-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/micronaut-graal-demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/micronaut-graal-demo_test.iml" group="micronaut-graal-demo" />
+    </modules>
+  </component>
+</project>

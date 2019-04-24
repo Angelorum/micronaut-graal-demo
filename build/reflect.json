@@ -1,0 +1,1099 @@
+[ {
+  "name" : "com.fasterxml.jackson.databind.ObjectMapper",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "com.fasterxml.jackson.databind.PropertyNamingStrategy$UpperCamelCaseStrategy",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "com.fasterxml.jackson.datatype.jdk8.Jdk8Module",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "com.fasterxml.jackson.datatype.jsr310.JSR310Module",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.aop.Adapter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.buffer.netty.$NettyByteBufferFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.buffer.netty.NettyByteBufferFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.$AsyncCacheErrorHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.$CacheConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.$DefaultCacheErrorHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.$DefaultCacheManagerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.$DefaultSyncCacheDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.AsyncCacheErrorHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.CacheConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.DefaultCacheErrorHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.DefaultCacheManager",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.DefaultSyncCache",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.interceptor.$CacheInterceptorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.cache.interceptor.CacheInterceptor",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Bean",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Configuration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.ConfigurationProperties",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.ConfigurationReader",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Context",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.EachBean",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.EachProperty",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Factory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Parameter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Primary",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Property",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.PropertySource",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Prototype",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Requirements",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Type",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.annotation.Value",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.env.PropertiesPropertySourceLoader",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.context.env.yaml.YamlPropertySourceLoader",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.core.annotation.Experimental",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.core.annotation.Internal",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.core.convert.format.ReadableBytes",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.core.io.ResourceResolver",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.core.io.file.FileSystemResourceLoader",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.core.io.scan.ClassPathResourceLoader",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.$DefaultCompositeDiscoveryClientDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.$DefaultServiceInstanceIdGeneratorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.DefaultCompositeDiscoveryClient",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.DefaultServiceInstanceIdGenerator",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.ServiceInstanceList",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.cloud.aws.$AmazonComputeInstanceMetadataResolverDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.cloud.aws.$AmazonMetadataConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.cloud.gcp.$GoogleComputeInstanceMetadataResolverDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.cloud.gcp.$GoogleComputeMetadataConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.config.$DefaultCompositeConfigurationClientDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.discovery.config.DefaultCompositeConfigurationClient",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.graal.reflect.$GraalClassLoadingAnalyzer$ApplicationEventListener$onStartup$InterceptedDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.graal.reflect.$GraalClassLoadingAnalyzerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.graal.reflect.GraalClassLoadingAnalyzer",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.graal.reflect.GraalClassLoadingAnalyzer$ApplicationEventListener$onStartup$Intercepted",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.health.$DefaultCurrentHealthStatusDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.health.$HeartbeatConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.health.$HeartbeatTaskDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.health.DefaultCurrentHealthStatus",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.health.HeartbeatConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.health.HeartbeatTask",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.$MediaTypeConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.MediaTypeConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.annotation.Consumes",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.annotation.Controller",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.annotation.Filter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.annotation.Get",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.annotation.Produces",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.bind.$DefaultRequestBinderRegistryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.bind.DefaultRequestBinderRegistry",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.$DefaultHttpClientConfiguration$DefaultConnectionPoolConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.$DefaultHttpClientConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.$DefaultHttpClientDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.$DefaultLoadBalancerResolverDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.$ServiceHttpClientConfiguration$ServiceConnectionPoolConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.$ServiceHttpClientConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.$ServiceHttpClientFactory$ServiceHttpClientDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.$ServiceHttpClientFactory$ServiceInstanceListDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.$ServiceHttpClientFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.DefaultHttpClient",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.DefaultHttpClientConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.DefaultHttpClientConfiguration$DefaultConnectionPoolConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.DefaultLoadBalancerResolver",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.NettyClientHttpRequestFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.ServiceHttpClientConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.ServiceHttpClientConfiguration$ServiceConnectionPoolConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.ServiceHttpClientFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.converters.$ClientResponseConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.converters.$LoadBalancerConvertersDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.converters.ClientResponseConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.converters.LoadBalancerConverters",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.interceptor.$HttpClientIntroductionAdviceDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.interceptor.HttpClientIntroductionAdvice",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.loadbalance.$DiscoveryClientLoadBalancerFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.loadbalance.$ServiceInstanceListLoadBalancerFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.loadbalance.DiscoveryClientLoadBalancerFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.loadbalance.ServiceInstanceListLoadBalancerFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.rxjava2.$RxReactiveClientResultTransformerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.rxjava2.RxReactiveClientResultTransformer",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.scope.$ClientScopeDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.scope.ClientScope",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.ssl.$NettyClientSslBuilderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.client.ssl.NettyClientSslBuilder",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.codec.$CodecConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.codec.CodecConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.codec.MediaTypeCodecRegistry",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.netty.channel.$NettyThreadFactory$NettyThreadFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.netty.channel.$NettyThreadFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.netty.channel.NettyThreadFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.netty.cookies.NettyCookieFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.netty.websocket.$NettyServerWebSocketBroadcasterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.netty.websocket.$WebSocketMessageEncoderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.netty.websocket.NettyServerWebSocketBroadcaster",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.netty.websocket.WebSocketMessageEncoder",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.resource.$ResourceLoaderFactory$FileSystemResourceLoaderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.resource.$ResourceLoaderFactory$GetClassPathResourceLoaderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.resource.$ResourceLoaderFactory$ResourceResolverDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.resource.$ResourceLoaderFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.resource.ResourceLoaderFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.$HttpServerConfiguration$CorsConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.$HttpServerConfiguration$MultipartConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.$HttpServerConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.HttpServerConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.HttpServerConfiguration$CorsConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.HttpServerConfiguration$MultipartConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.binding.$RequestArgumentSatisfierDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.binding.RequestArgumentSatisfier",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.codec.$TextStreamCodecDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.codec.TextStreamCodec",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.context.$ServerRequestContextFilterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.context.$ServerRequestContextInstrumentation$ExecutorServiceInstrumentationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.context.$ServerRequestContextInstrumentationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.context.ServerRequestContextFilter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.context.ServerRequestContextInstrumentation",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.context.ServerRequestContextInstrumentation$ExecutorServiceInstrumentation",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.cors.$BeanConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.cors.$CorsFilterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.cors.$CorsOriginConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.cors.CorsFilter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.cors.CorsOriginConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.exceptions.$ContentLengthExceededHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.exceptions.$ConversionErrorHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.exceptions.$HttpStatusHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.exceptions.$JsonExceptionHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.exceptions.$UnsatisfiedArgumentHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.exceptions.ContentLengthExceededHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.exceptions.ConversionErrorHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.exceptions.HttpStatusHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.exceptions.JsonExceptionHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.exceptions.UnsatisfiedArgumentHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.$FormDataHttpContentSubscriberFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.$NettyEmbeddedServerInstanceDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.$NettyHttpServerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.$NettyRequestArgumentSatisfierDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.FormDataHttpContentSubscriberFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.NettyEmbeddedServerInstance",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.NettyHttpResponseFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.NettyHttpServer",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.NettyRequestArgumentSatisfier",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.binders.$CompletableFutureBodyBinderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.binders.$ObservableBodyBinderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.binders.$PublisherBodyBinderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.binders.$SingleBodyBinderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.binders.CompletableFutureBodyBinder",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.binders.ObservableBodyBinder",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.binders.PublisherBodyBinder",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.binders.SingleBodyBinder",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.configuration.$NettyChannelOptionConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.configuration.$NettyHttpServerConfiguration$ParentDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.configuration.$NettyHttpServerConfiguration$WorkerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.configuration.$NettyHttpServerConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.configuration.NettyChannelOptionConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.configuration.NettyHttpServerConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.configuration.NettyHttpServerConfiguration$Parent",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.configuration.NettyHttpServerConfiguration$Worker",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$AttributeConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$ByteBufToArrayConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$ByteBufToObjectConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$ByteBufToStringConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$DuplicateRouteHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$FileUploadToCompletedFileUploadConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$FileUploadToObjectConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$HttpDataToByteArrayConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$HttpDataToStringConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$NettyPartDataToArrayConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$NettyPartDataToObjectConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.$UnsatisfiedRouteHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.AttributeConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.ByteBufToArrayConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.ByteBufToObjectConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.ByteBufToStringConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.DuplicateRouteHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.FileUploadToCompletedFileUploadConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.FileUploadToObjectConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.HttpDataToByteArrayConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.HttpDataToStringConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.NettyPartDataToArrayConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.NettyPartDataToObjectConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.converters.UnsatisfiedRouteHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.jackson.$JsonHttpContentSubscriberFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.jackson.JsonHttpContentSubscriberFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.ssl.$NettyServerSslBuilderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.ssl.NettyServerSslBuilder",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.types.$DefaultCustomizableResponseTypeHandlerRegistryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.types.DefaultCustomizableResponseTypeHandlerRegistry",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.types.files.$FileTypeHandlerConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.types.files.$FileTypeHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.types.files.FileTypeHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.netty.types.files.FileTypeHandlerConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.websocket.$ServerWebSocketProcessorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.server.websocket.ServerWebSocketProcessor",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$ClientSslConfiguration$DefaultKeyConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$ClientSslConfiguration$DefaultKeyStoreConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$ClientSslConfiguration$DefaultTrustStoreConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$ClientSslConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$DefaultSslConfiguration$DefaultKeyConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$DefaultSslConfiguration$DefaultKeyStoreConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$DefaultSslConfiguration$DefaultTrustStoreConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$DefaultSslConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$ServerSslConfiguration$DefaultKeyConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$ServerSslConfiguration$DefaultKeyStoreConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$ServerSslConfiguration$DefaultTrustStoreConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.$ServerSslConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.ClientSslConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.DefaultSslConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.DefaultSslConfiguration$DefaultKeyConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.DefaultSslConfiguration$DefaultKeyStoreConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.DefaultSslConfiguration$DefaultTrustStoreConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.ssl.ServerSslConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.util.$OutgoingHttpRequestProcessorImplDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.util.OutgoingHttpRequestProcessorImpl",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.$BeanConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.$JacksonConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.$ObjectMapperFactory$ObjectMapperDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.$ObjectMapperFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.JacksonConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.ObjectMapperFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.bind.$JacksonBeanPropertyBinderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.bind.$MapToObjectConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.bind.JacksonBeanPropertyBinder",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.bind.MapToObjectConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.codec.$JsonMediaTypeCodecDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.codec.$JsonStreamMediaTypeCodecDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.codec.JsonMediaTypeCodec",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.codec.JsonStreamMediaTypeCodec",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.convert.$ArrayNodeToArrayConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.convert.$ArrayNodeToIterableConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.convert.$JsonNodeToObjectConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.convert.$ObjectNodeToConvertibleValuesConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.convert.$ObjectToJsonNodeConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.convert.ArrayNodeToArrayConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.convert.ArrayNodeToIterableConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.convert.JsonNodeToObjectConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.convert.ObjectNodeToConvertibleValuesConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.convert.ObjectToJsonNodeConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.env.EnvJsonPropertySourceLoader",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.env.JsonPropertySourceLoader",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.$ConvertibleMultiValuesSerializerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.$ConvertibleValuesSerializerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.$JacksonObjectSerializerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.$OptionalValuesSerializerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.$ResourceModuleDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.$ResourceSerializerModifierDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.ConvertibleMultiValuesSerializer",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.ConvertibleValuesSerializer",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.JacksonObjectSerializer",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.OptionalValuesSerializer",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.ResourceModule",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.jackson.serialize.ResourceSerializerModifier",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.reactive.rxjava2.$RxJava2InstrumentationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.reactive.rxjava2.RxJava2Instrumentation",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.reactive.rxjava2.converters.$RxJavaConverterRegistrarDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.reactive.rxjava2.converters.RxJavaConverterRegistrar",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.retry.intercept.$DefaultRetryInterceptorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.retry.intercept.$RecoveryInterceptorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.retry.intercept.DefaultRetryInterceptor",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.retry.intercept.RecoveryInterceptor",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.$ApplicationConfiguration$InstanceConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.$ApplicationConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.ApplicationConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.ApplicationConfiguration$InstanceConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.context.scope.$ThreadLocalCustomScopeDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.context.scope.ThreadLocalCustomScope",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.context.scope.refresh.$RefreshInterceptorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.context.scope.refresh.$RefreshScopeDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.context.scope.refresh.RefreshInterceptor",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.context.scope.refresh.RefreshScope",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.converters.time.$TimeConverterRegistrarDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.converters.time.TimeConverterRegistrar",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.event.annotation.EventListener",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.http.codec.$MediaTypeCodecRegistryFactory$MediaTypeCodecRegistryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.http.codec.$MediaTypeCodecRegistryFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.http.codec.$TextPlainCodecDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.http.codec.MediaTypeCodecRegistryFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.http.codec.TextPlainCodec",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.http.converters.$HttpStatusConverterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.runtime.http.converters.HttpStatusConverter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.$DefaultTaskExceptionHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.$ScheduledExecutorTaskSchedulerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.DefaultTaskExceptionHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.ScheduledExecutorTaskScheduler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.annotation.Scheduled",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.annotation.Schedules",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.async.$AsyncInterceptorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.async.AsyncInterceptor",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.$DefaultExecutorSelectorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.$DefaultThreadFactory$ThreadFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.$DefaultThreadFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.$ExecutorFactory$ExecutorServiceDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.$ExecutorFactoryDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.$IOExecutorServiceConfig$ConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.$IOExecutorServiceConfigDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.$ScheduledExecutorServiceConfig$ConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.$ScheduledExecutorServiceConfigDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.$UserExecutorConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.DefaultExecutorSelector",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.DefaultThreadFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.ExecutorConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.ExecutorFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.IOExecutorServiceConfig",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.ScheduledExecutorServiceConfig",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.executor.UserExecutorConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.processor.$ScheduledMethodProcessorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.scheduling.processor.ScheduledMethodProcessor",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.validation.$ValidatingInterceptorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.validation.ValidatingInterceptor",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.validation.exceptions.$ConstraintExceptionHandlerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.validation.exceptions.ConstraintExceptionHandler",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.$AnnotatedFilterRouteBuilderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.$AnnotatedMethodRouteBuilderDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.$DefaultRouterDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.AnnotatedFilterRouteBuilder",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.AnnotatedMethodRouteBuilder",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.DefaultRouter",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.naming.$HyphenatedUriNamingStrategyDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.naming.HyphenatedUriNamingStrategy",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.resource.$StaticResourceConfigurationDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.resource.$StaticResourceResolverDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.resource.StaticResourceConfiguration",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.web.router.resource.StaticResourceResolver",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.websocket.interceptor.$ClientWebSocketInterceptorDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.websocket.interceptor.ClientWebSocketInterceptor",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.netty.channel.socket.nio.NioServerSocketChannel",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.netty.channel.socket.nio.NioSocketChannel",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.reactivex.Maybe",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.reactivex.Observable",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.reactivex.Single",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "java.lang.FunctionalInterface",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "java.util.concurrent.ExecutorService",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "java.util.concurrent.ThreadFactory",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "javax.annotation.Nullable",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "javax.annotation.PreDestroy",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "javax.inject.Inject",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "javax.inject.Named",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "javax.inject.Singleton",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "micronaut.graal.demo.$SaludoControllerDefinitionClass",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "micronaut.graal.demo.SaludoController",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "sun.security.ssl.SSLContextImpl$TLSContext",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "[Lio.micronaut.http.MediaType;",
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.hateos.DefaultLink",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "io.micronaut.http.hateos.JsonError",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "java.lang.String",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+} ]

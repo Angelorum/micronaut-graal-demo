@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.oracle.substratevm:svm:GraalVM-1.0.0-rc7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/substratevm/svm/GraalVM-1.0.0-rc7/svm-GraalVM-1.0.0-rc7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
